@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Emacs
+Comment=Text Editor
+Exec=/home/vagrant/GitHub/docker-emacs/emacs.sh
+Icon=/home/vagrant/GitHub/docker-emacs/emacs.png
+Path=
+Terminal=false
+StartupNotify=true

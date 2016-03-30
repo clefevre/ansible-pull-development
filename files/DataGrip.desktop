@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=DataGrip
+Comment=Database Browser
+Exec=/home/vagrant/Software/datagrip/bin/datagrip.sh
+Icon=/home/vagrant/Software/datagrip/bin/product.png
+Path=
+Terminal=false
+StartupNotify=true
+
